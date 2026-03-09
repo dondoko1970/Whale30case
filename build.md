@@ -34,19 +34,19 @@
 <img src="images/whale30case main.jpg" width="80%" />
 
 - スイッチプレート
-<img src="images/PXL_20251222_074046278.jpg" width="80%" />
+<img src="images/whale30case sw.jpg" width="80%" />
 
 - ボトムプレート
-<img src="images/PXL_20251222_074205728.jpg" width="80%" />
+<img src="images/whale30case bottom.jpg" width="80%" />
 
 - アクリルプレート・トップ
-<img src="images/PXL_20251222_074104322.jpg" width="80%" />
+<img src="images/whale30case upper.jpg" width="80%" />
 
 - アクリルプレート・ミドルA
-<img src="images/PXL_20251222_074144539.jpg" width="80%" />
+<img src="images/whale30case mid1.jpg" width="80%" />
 
 - アクリルプレート・ミドルB
-<img src="images/PXL_20251222_074121320.jpg" width="80%" />
+<img src="images/whale30case mid2.jpg" width="80%" />
 
 - RP2040-Core-A
 
